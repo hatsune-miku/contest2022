@@ -60,3 +60,5 @@ https://open.kattis.com/problems/smil
 https://open.kattis.com/problems/kolone
 
 3次AC，代码在repo中，kolone.cpp
+
+那这么一看对的还挺多的，最后拿老三可能因为罚时太多了，加上前面大哥是真的牛
